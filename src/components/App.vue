@@ -6,7 +6,7 @@ export default {
     return {
       unlocked: false,
       passwordInput: "",
-      correctPassword: "Zer075-e386",
+      correctPassword: "zer075-e386",
       rates: {
         receivable: [
           0,          // índice 0
